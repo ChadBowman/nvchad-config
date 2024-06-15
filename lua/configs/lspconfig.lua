@@ -8,6 +8,7 @@ local servers = {
   "html",
   "cssls",
   "pyright",
+  "bashls",
 }
 
 -- lsps with default config
