@@ -9,6 +9,7 @@ local servers = {
   "cssls",
   "pyright",
   "bashls",
+  "rust_analyzer",
 }
 
 -- lsps with default config
